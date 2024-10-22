@@ -1,12 +1,10 @@
+/**
+ * Entry point of application, where App is rendered within the div with the id of "app" 
+ */
+
 import React from "react";
-import { createRoot } from "react-dom/client";
-import { BrowserRouter as Router } from "react-router-dom";
+import { render } from "react-dom";
+
 import App from "./App";
 
-// Set basename to match your GitHub repository name
-const root = createRoot(document.getElementById("app"));
-root.render(
-  <Router basename="/My_Portfolio">
-    <App />
-  </Router>
-);
+render(<App></App>, document.getElementById("app"));
