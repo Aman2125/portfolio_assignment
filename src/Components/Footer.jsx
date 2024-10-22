@@ -71,7 +71,7 @@ const Footer = (props) => {
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/${gitHub}`} target="_blank" rel="noopener noreferrer">
+          <a href={"https://github.com/Aman2125/My_Portfolio"} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={"https://www.linkedin.com/in/aman-kumar-gupta-910041214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -99,7 +99,7 @@ const Footer = (props) => {
           </a>
         )}
         {twitter && (
-          <a href={`https://twitter.com/${twitter}`} target="_blank" rel="noopener noreferrer">
+          <a href={"https://x.com/Aman_gupta045?t=xOHClh_8W1WtNOWmMo3hBg&s=09"} target="_blank" rel="noopener noreferrer">
             <img src={twitterIcon} alt="Twitter" className="socialIcon" />
           </a>
         )}
