@@ -34,7 +34,7 @@ const projectList = [
     title: "My Portfolio Website",
     description:
       "Created using React , vite , tailwind css , JS. You can checkout my projects through there and can contact me easily.",
-    url: "https://github.com/Aman2125/My_Portfolio",
+    url: "https://aman2125.github.io/My_Portfolio/",
   },
   {
     title: "Todo and Journal page",
@@ -43,16 +43,16 @@ const projectList = [
     url: "https://github.com/Aman2125/Todo-and-Journal",
   },
   {
-    title: "E-Commerece Website",
+    title: "Indian Recipe Finder Website",
     description:
-      "Created using React and nodejs , work is in progress!!",
-    url: "https://github.com/Aman2125/E-Commerce",
+      "Indian Recipe Finder 🍛 A modern web app built with React and Vite to discover authentic Indian recipes. Features include recipe search, category filters (vegetarian, desserts, etc.), detailed instructions, and a sleek, responsive design.",
+    url: "https://aman2125.github.io/Indian_recipe_finder/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Quiz and Games Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Quiz and Games Website 🎮 is an interactive platform built with React and TypeScript. It offers various quizzes 🧠 and fun mini-games 🎲, along with real-time score tracking 🏆.",
+    url: "https://aman2125.github.io/Quiz_and_Games/",
   },
 ];
 
